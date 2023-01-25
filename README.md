@@ -4,8 +4,8 @@
 </heading>
 <main>
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/brando5393/contacts-core" taget="blank">Contacts Core</a></li> 
-    <li>🌱 I’m currently learning <strong>c++</strong></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/brando5393/python-text-to-audo" taget="blank">python-text-to-audio</a></li> 
+    <li>🌱 I’m currently learning <strong>OOP with Python</strong></li>
     <li>📫 How to reach me: <a href="mailto:brando5393@gmail.com">brando5393@gmail.com</a></li>
   </ul>
   <h4><u>Connect With Me:</u></h4>
