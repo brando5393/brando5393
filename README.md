@@ -1,6 +1,6 @@
 <heading>
   <h1 align="center">Hi there I'm Brandon (brando5393) 👋</h1>
-  <h3 align="center">Web/Software Developer | Gamer | Panist</h3>
+  <h3 align="center">I.T. professional | Gamer | Panist</h3>
 </heading>
 <main>
   <ul>
